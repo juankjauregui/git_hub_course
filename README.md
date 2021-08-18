@@ -2,6 +2,7 @@
 
 #### Disabled options
 
+- Changes to learn the power of cherry-pick
 - TeX (Based on KaTeX);
 - Emoji;
 - Task lists;
