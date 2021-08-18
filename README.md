@@ -3,6 +3,7 @@
 #### Disabled options
 
 - Changes to learn the power of cherry-pick
+- Think we're ready for the ball
 - TeX (Based on KaTeX);
 - Emoji;
 - Task lists;
